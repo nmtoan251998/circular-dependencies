@@ -1,0 +1,5 @@
+Sun Apr 11 2021 15:51:21 GMT+0700 (Indochina Time) - [Writer] Logger module initialized
+Sun Apr 11 2021 15:51:21 GMT+0700 (Indochina Time) - [DI] Logger module initialized
+Sun Apr 11 2021 15:51:21 GMT+0700 (Indochina Time) - [DI] Dependencies initialized
+Sun Apr 11 2021 15:51:21 GMT+0700 (Indochina Time) - [App] Logger module initialized
+Sun Apr 11 2021 15:51:21 GMT+0700 (Indochina Time) - [App] App started on http://localhost:10000
